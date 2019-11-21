@@ -4,6 +4,6 @@ Offsec_machines
 https://certcube.com
 
 
-learn detailed offensive approach to pentest the internl and external network security 
+learn detailed offensive approach to pentest the internl and external networks 
 
 Join Today!!!!
